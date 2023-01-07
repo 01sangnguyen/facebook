@@ -1,0 +1,14 @@
+button{
+    background-color: #04AA6D;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 6px 18px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #059862;
+}
+/* rgb */
+/* ssh key */
